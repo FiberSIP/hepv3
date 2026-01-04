@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	"hepv3"
 	"net"
+
+	"github.com/FiberSIP/hepv3"
 )
 
 func main() {

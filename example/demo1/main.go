@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"hepv3"
+	"github.com/FiberSIP/hepv3"
 	"net"
 	"os"
 )
